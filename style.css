@@ -23,12 +23,25 @@ body{
 }
 
 .controls {
-    margin-top: 60px;
     display: flex;
     flex-direction: column;
     align-items: center;
 
 }
+
+.current-mode button {
+    width: auto;
+    height: 30px;
+    border:1px solid rgba(255,255,255,0.8);
+    margin-top: 20px;
+    border-radius: 10px;
+    color:#696764;
+}
+
+.controls-range{
+    margin-top: 20px;
+}
+
 
 .controls-btns button {
     all:unset;
