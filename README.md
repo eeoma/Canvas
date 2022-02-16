@@ -10,5 +10,8 @@ Canvas api를 이용한 그림판 웹
 - save버튼으로 내가 그린 그림 저장 
 
 
+### Try it !
+- https://our-canvas.netlify.app/
+
 
 
